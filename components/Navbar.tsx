@@ -7,6 +7,7 @@ const links = [
   { href: "#about", label: "EL ARTISTA" },
   { href: "#work", label: "OBRA" },
   { href: "#process", label: "PROCESO" },
+  { href: "#location", label: "UBICACIÓN" },
 ];
 
 export function Navbar() {
