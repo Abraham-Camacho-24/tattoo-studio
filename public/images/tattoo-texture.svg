@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 1200" fill="none">
+<rect width="900" height="1200" fill="#171717"/>
+<path d="M-60 1140C180 890 130 460 493 95c78-78 224-122 474-169" stroke="#DBDBD6" stroke-opacity=".82" stroke-width="6"/>
+<path d="M-76 1110C159 839 164 506 465 166c92-104 255-156 493-190" stroke="#5C5C59" stroke-width="33"/>
+<g stroke="#EAEAE2" stroke-opacity=".72" stroke-width="2"><path d="M30 951c283-188 241-491 533-772"/><path d="M14 991c282-184 285-527 576-784"/><path d="M87 918c248-162 208-450 464-706"/><path d="M206 1017C330 708 301 525 669 158"/><path d="M111 1102c260-247 256-531 546-812"/></g>
+<g fill="#8B0000" fill-opacity=".72"><circle cx="516" cy="373" r="9"/><circle cx="455" cy="447" r="5"/><circle cx="360" cy="644" r="8"/><circle cx="238" cy="807" r="4"/></g>
+<text x="56" y="110" fill="#F0F0EA" font-family="monospace" font-size="20" letter-spacing="8">NOIR / NEEDLE</text>
+</svg>

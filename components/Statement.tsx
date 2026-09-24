@@ -1,0 +1,2 @@
+import { whatsappHref } from "@/data/site";
+export function Statement() { return <section className="statement"><div className="statement-orb" aria-hidden="true" /><div className="shell reveal"><p className="eyebrow">LA PRÓXIMA PIEZA COMIENZA AQUÍ</p><h2>UNA IDEA.<br /><em>UNA HUELLA.</em></h2><a className="text-link" href={whatsappHref} target="_blank" rel="noreferrer">EMPIEZA TU PROYECTO <b>↗</b></a></div></section>; }
