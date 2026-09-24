@@ -2,7 +2,7 @@ import { siteConfig, whatsappHref } from "@/data/site";
 
 export function Hero() {
   return <section className="hero" id="top" aria-labelledby="hero-title">
-    <div className="hero-art" aria-hidden="true" />
+    <div className="hero-art" aria-hidden="true" style={{ backgroundImage: `url("${siteConfig.heroImageUrl}")` }} />
     <div className="hero-shade" aria-hidden="true" />
     <div className="shell hero-content">
       <div className="eyebrow hero-eyebrow"><span /> TATUADOR INDEPENDIENTE — {siteConfig.location}</div>
