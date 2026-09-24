@@ -6,7 +6,7 @@ export function Hero() {
     <div className="hero-shade" aria-hidden="true" />
     <div className="shell hero-content">
       <div className="eyebrow hero-eyebrow"><span /> TATUADOR INDEPENDIENTE — {siteConfig.location}</div>
-      <h1 id="hero-title">TATTOO<br /><em>ARTIST</em></h1>
+      <h1 id="hero-title">MTZ<br /><em>TATTOO</em></h1>
       <div className="hero-bottom">
         <p>Proyectos de gran escala,<br />diseñados para quedarse contigo.</p>
         <div className="hero-actions">
