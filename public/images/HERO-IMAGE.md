@@ -1,5 +1,3 @@
-# Hero image replacement
+# Hero image
 
-Place the final artist photograph in this directory as `hero-tattoo.jpg`.
-
-Then update `heroImageUrl` in `data/site.ts` to `/images/hero-tattoo.jpg`. The image should be a dark, high-contrast tattoo photograph with enough negative space for the hero copy on the left.
+The Hero uses `Herramientas.jpg` from this directory via `heroImageUrl` in `data/site.ts`.
