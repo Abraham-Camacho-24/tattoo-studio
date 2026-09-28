@@ -4,7 +4,7 @@ export const siteConfig = {
   location: "GUADALAJARA, JALISCO",
   instagramUrl: "INSTAGRAM_URL",
   instagramLabel: "@INSTAGRAM_HANDLE",
-  whatsappNumber: "WHATSAPP_NUMBER",
+  whatsappNumber: "523332582416",
   whatsappMessage: "Hola, me gustaría cotizar un proyecto de tatuaje.",
   heroImageUrl: "/images/Herramientas.jpg",
   locationName: "Mtz Tattoo",
