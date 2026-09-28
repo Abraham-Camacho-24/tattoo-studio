@@ -6,8 +6,7 @@ export const siteConfig = {
   instagramLabel: "@INSTAGRAM_HANDLE",
   whatsappNumber: "WHATSAPP_NUMBER",
   whatsappMessage: "Hola, me gustaría cotizar un proyecto de tatuaje.",
-  // Replace this demo photograph with /public/images/hero-tattoo.jpg when the artist's final image is available.
-  heroImageUrl: "https://images.unsplash.com/photo-1565058379802-bbe93b2c4e1f?auto=format&fit=crop&w=2400&q=90",
+  heroImageUrl: "/images/Herramientas.jpg",
   locationName: "Mtz Tattoo",
   studioName: "Mtz Tattoo",
   studioAddress: "Revolución Nte. #99, Potrero Nuevo, 45680 El Salto, Jal.",
